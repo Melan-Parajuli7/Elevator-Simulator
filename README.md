@@ -137,3 +137,14 @@ dotnet run --project Lift.Tests
 | `ElevatorDb` not visible in SSMS | Run the program once, then refresh **Databases**. Connect to `(localdb)\MSSQLLocalDB` with Windows authentication. |
 | Build error about `net8.0-windows` | Install the .NET 8 SDK or change `TargetFramework` in `Lift.csproj` to the SDK you have. |
 | No sound | Check the Windows volume. Sound is optional. |
+
+
+```
+
+## 👨‍💻 Author
+
+**Your Name**  
+GitHub: [Melan Parajuli](https://github.com/MELAN-PARAJULI7)  
+LinkedIn: [Melan Parajuli](https://www.linkedin.com/in/melan-parajuli-b19b08349/)
+
+---
