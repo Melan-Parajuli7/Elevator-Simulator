@@ -18,7 +18,7 @@ Requests from outside are shared out by a dispatcher. Every operation is stored 
 
 ### A passenger using the lift
 
-![A passenger rides inside the moving car](docs/screenshots/PassangerUsingLift.png)
+![A passenger rides inside the moving car](docs/screenshots/PassengerUsingLift.png)
 
 A passenger has pressed the call button, stepped in and pressed a floor button. The car (the container) slides through its shaft with the passenger inside, and the LED display shows the moving arrows and `MOVING TO ...`.
 
