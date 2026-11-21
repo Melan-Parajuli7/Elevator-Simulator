@@ -139,8 +139,6 @@ dotnet run --project Lift.Tests
 | No sound | Check the Windows volume. Sound is optional. |
 
 
-
-
 ## 👨‍💻 Author
 
 **Mr.Melan Parajuli**  
